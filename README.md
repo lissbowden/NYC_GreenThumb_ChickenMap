@@ -3,4 +3,4 @@ Data and project files from Melissa Bowden Tyra's fall 2023 Data Librarianship &
 
 ## ArcGIS Submission Links
 Final ArcGIS map is publicly available here: https://melbowtyra.maps.arcgis.com/home/item.html?id=f3e58500f744401890233900457fd029
-Final ArcGIS StoryMap is publicly available here: https://melbowtyra.maps.arcgis.com/home/item.html?id=c373efa03e6a40d2bec5b4e9bde7a3be
+<p>Final ArcGIS StoryMap is publicly available here: https://melbowtyra.maps.arcgis.com/home/item.html?id=c373efa03e6a40d2bec5b4e9bde7a3be</p>
