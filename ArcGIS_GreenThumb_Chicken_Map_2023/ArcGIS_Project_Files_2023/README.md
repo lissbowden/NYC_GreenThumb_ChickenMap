@@ -8,3 +8,5 @@ You can open and edit your own version of this project with ArcGIS Pro with the 
 3. Open ArcGIS Pro
 4. Import `GreenThumb_Chickens_12-1-2023.aprx` as project file
    
+## Openly available/editable ArcGIS map
+The final NYC GreenThumb Chicken map is available in editable ArcGIS form on ArcGIS Online: https://melbowtyra.maps.arcgis.com/home/item.html?id=f3e58500f744401890233900457fd029
